@@ -1,0 +1,5 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr13	60020236	TGTGC	5	GT	TGTGT	0.58605	1e-14	5.789e-11	1
+chr24	43525954	AAGGG	10	C	TCCTT	0.78481	1.0397e-06	0.0030094	2
+chr38	21106393	GTCCC	12	GCT	GGTAC	0.50932	1.8007e-06	0.0034747	3
+chr38	21091586	GTCCC	12	GCT	GGTAC	0.52524	5.2768e-06	0.0076369	4

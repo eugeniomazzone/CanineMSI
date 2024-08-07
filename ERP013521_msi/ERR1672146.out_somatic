@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr27	26523510	CCCTG	7	CA	AAAAA	0.68332	1.7962e-07	0.00091465	1

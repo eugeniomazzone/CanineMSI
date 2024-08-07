@@ -1,0 +1,5 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr16	41131919	ACACG	10	CA	GAATC	0.60851	3.093e-08	0.00043865	1
+chr16	13100872	AATAA	9	AC	GTAAA	0.50866	2.3725e-06	0.016823	2
+chr5	14824438	AGAGA	10	GT	GGAAA	0.52676	2.4088e-06	0.011387	3
+chr5	42699776	CCCCC	6	CA	AACAG	0.43561	4.3415e-06	0.015393	4

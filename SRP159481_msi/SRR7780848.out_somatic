@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr33	18088627	AACAA	11	T	CATAT	0.58921	2.245e-07	0.0045805	1

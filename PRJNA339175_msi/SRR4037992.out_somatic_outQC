@@ -1,0 +1,5 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr5	19898484	CTAGA	11	T	CTGAG	0.51811	1.3609e-10	1.3296e-06	1
+chr16	34057145	ATCTT	11	A	TAACC	0.66768	3.5947e-08	0.0001756	2
+chr22	33709803	TTTAA	11	T	AATTT	0.67451	2.7499e-07	0.00089556	3
+chr7	18064582	TGCAG	12	A	TCAAT	0.7025	1.6264e-05	0.039724	4

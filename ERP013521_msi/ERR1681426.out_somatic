@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr10	11567166	AACTG	11	T	CAAAT	0.77238	6.2747e-15	3.901e-11	1

@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chrUn_JH373485	29433	AAAAC	6	CCGT	CCGGG	0.24732	1e-14	6.254e-11	1

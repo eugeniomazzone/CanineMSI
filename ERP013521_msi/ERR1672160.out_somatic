@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr27	6627356	TCCAA	10	T	CTTCA	0.52632	9.8182e-06	0.043416	1

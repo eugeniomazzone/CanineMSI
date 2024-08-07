@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr36	22196997	TGTGG	14	A	TACTA	0.45256	2.8132e-06	0.038339	1

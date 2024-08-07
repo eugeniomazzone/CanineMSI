@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr30	38051895	CCCCC	6	CA	CTGAG	0.34989	2.6766e-08	0.00030262	1

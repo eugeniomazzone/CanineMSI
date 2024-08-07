@@ -1,0 +1,3 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr7	21208930	AAATT	14	A	GGAAA	0.87644	4.5725e-06	0.037184	1
+chr8	14036069	CTGGA	14	T	AACTA	0.75458	5.8855e-06	0.023931	2

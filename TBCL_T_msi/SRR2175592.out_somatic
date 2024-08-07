@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr38	1806422	CACAC	6	TC	TTTCT	0.71825	1.6767e-05	0.033467	1

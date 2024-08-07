@@ -1,0 +1,3 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr7	78592994	ATCAC	14	CAG	ATCAA	0.54451	1e-14	1.6606e-10	1
+chr5	21689936	TGTGC	8	GT	ATGTG	0.23523	1e-14	8.303e-11	2

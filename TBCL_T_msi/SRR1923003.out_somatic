@@ -1,0 +1,4 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr6	39485146	CCAAA	11	CATC	CCCCT	0.58226	1.0851e-10	6.2284e-07	1
+chr5	42483094	GCAAC	9	GT	GCATC	0.57606	1.1518e-05	0.033055	2
+chrX	37698070	TTTTG	6	TGTT	TCCTT	0.86667	1.7572e-05	0.033621	3

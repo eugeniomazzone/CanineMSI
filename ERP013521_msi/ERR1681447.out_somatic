@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chrX	12884221	CCCCC	10	T	AAAGA	0.77907	4.5381e-07	0.0029488	1

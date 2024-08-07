@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr12	9923407	TGCAT	15	AC	TCAGG	0.47312	1.9119e-06	0.03011	1

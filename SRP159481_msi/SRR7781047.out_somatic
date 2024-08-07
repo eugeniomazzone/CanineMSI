@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr26	20795601	TGCTT	8	CTG	GAGAC	0.82971	2.4871e-10	5.0087e-06	1

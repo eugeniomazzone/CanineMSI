@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr7	44760485	GCACC	10	GT	GCGCG	0.30702	2.7416e-06	0.033286	1

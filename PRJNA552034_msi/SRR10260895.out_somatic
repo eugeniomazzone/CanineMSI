@@ -1,0 +1,5 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr12	67081077	TATTT	7	TA	TTATT	0.5317	2.4865e-09	0.0001348	1
+chrUn_JH373473	13624	GGGCA	14	CCG	CGTTG	0.17188	6.6036e-07	0.017899	2
+chr8	26372372	AAAAC	12	A	TTTAC	0.58369	1.0223e-06	0.018473	3
+chr12	46845155	ATTTA	11	T	GTCTT	0.50416	2.8106e-06	0.038091	4

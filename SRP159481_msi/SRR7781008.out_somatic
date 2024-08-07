@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr18	45650363	TTTGA	10	T	AAACA	0.41379	4.0892e-07	0.0078542	1

@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr5	9147604	GTGTA	11	TG	GGAGA	0.66257	5.8261e-06	0.039414	1

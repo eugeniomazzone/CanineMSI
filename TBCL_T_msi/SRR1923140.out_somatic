@@ -1,0 +1,4 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr1	118929556	ACACT	8	CA	CTTAT	0.60092	1e-14	5.981e-11	1
+chr1	100712467	CTATT	15	AC	AACTT	0.54545	4.5638e-06	0.013648	2
+chr1	112563003	GCTCT	8	TCC	TCGAT	0.58437	8.2582e-06	0.016464	3

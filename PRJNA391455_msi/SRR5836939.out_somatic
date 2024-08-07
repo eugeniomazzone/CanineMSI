@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr18	25355790	GCAAG	10	C	ACTCC	0.55196	3.0357e-06	0.047533	1

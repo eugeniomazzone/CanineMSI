@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr26	862427	TGGGG	5	GCT	GCCGG	0.40341	1.6987e-06	0.015667	1

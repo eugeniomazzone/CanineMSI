@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr26	15777612	GAGAG	7	AC	ATACA	0.75288	5.3376e-08	0.00092314	1

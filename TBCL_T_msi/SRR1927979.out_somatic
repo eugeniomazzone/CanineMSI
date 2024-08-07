@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr3	57452866	CCTCT	25	C	TCCCC	0.73039	5.6496e-07	0.0023999	1

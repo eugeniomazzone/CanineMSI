@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr23	24613168	GGGCA	10	CGG	CCGGG	0.58868	6.0292e-07	0.019815	1

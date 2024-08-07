@@ -1,0 +1,4 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr33	25796747	AACAC	14	T	GCACA	0.57344	6.3269e-08	0.002948	1
+chr3	11881651	ACCAA	18	GT	CCACA	0.47104	9.0755e-08	0.0021144	2
+chr34	15059493	CTTCG	5	CATT	CAACA	0.56478	1.8855e-06	0.029285	3

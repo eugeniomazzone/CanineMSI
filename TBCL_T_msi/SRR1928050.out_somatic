@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr11	1781564	TTCTG	11	T	CCTTT	0.72031	4.6565e-06	0.033368	1

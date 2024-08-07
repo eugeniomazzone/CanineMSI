@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr5	29334496	GATCT	11	A	GAACC	0.35556	1.8103e-07	0.0029384	1

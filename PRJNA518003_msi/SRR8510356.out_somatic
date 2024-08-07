@@ -1,0 +1,3 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr3	56598627	GGGGT	10	G	AGGGG	0.17135	1e-14	1.6748e-10	1
+chr20	57395314	TTTTA	14	T	ATTTT	0.15129	1e-14	8.374e-11	2

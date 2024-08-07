@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr16	46091815	GTGTG	9	AG	GTCCT	0.68838	5.587e-06	0.033366	1

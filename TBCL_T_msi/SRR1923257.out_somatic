@@ -1,0 +1,2 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr15	49737591	CTCTA	8	GTT	CTTCT	0.8	7.4113e-06	0.047514	1

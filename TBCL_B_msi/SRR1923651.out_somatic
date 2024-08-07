@@ -1,0 +1,4 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr5	32620780	TCTTT	8	CTTC	TTTTC	0.56	3.6312e-06	0.015244	1
+chr8	67838305	CCCCA	20	AC	TCCCC	0.79659	4.3182e-06	0.009064	2
+chr27	41925409	TGCAG	18	AC	TCCTT	0.4729	1.3742e-05	0.019229	3

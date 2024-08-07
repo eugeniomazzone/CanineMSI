@@ -1,0 +1,5 @@
+chromosome	location	left_flank_bases	repeat_times	repeat_unit_bases	right_flank_bases	difference	P_value	FDR	rank
+chr10	7507297	TGTGA	12	T	CTAGG	0.64379	5.3734e-07	0.0037426	1
+chr10	10893857	TTTTT	9	CT	ATGTG	0.67704	2.4489e-06	0.0085284	2
+chr10	45379702	AGAAA	10	T	AAGTC	0.69775	3.5317e-06	0.0081995	3
+chr31	26439581	AAAGT	8	GCC	GCGGA	0.80628	1.5126e-05	0.026338	4
